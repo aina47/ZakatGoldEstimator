@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Zakat_App_Assignment" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimaryDark">@color/my_light_primarydark</item>
+        <item name="colorPrimary">@color/my_light_primary</item>
+        <item name="android:textColorPrimary">@color/white</item>
+
+    </style>
+
+    <style name="Theme.Zakat_App_Assignment" parent="Base.Theme.Zakat_App_Assignment" />
+</resources>
